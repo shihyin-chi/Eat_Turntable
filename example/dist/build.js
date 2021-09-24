@@ -2652,7 +2652,7 @@ var Demo = function (_React$Component) {
             null,
             '抽學餐'
           ),
-          _react2.default.createElement(_src2.default, _extends({}, options, { width: 500, height: 500 }))
+          _react2.default.createElement(_src2.default, _extends({}, options, { width: 440, height: 440 }))
         ),
         /*_react2.default.createElement(
           'section',
