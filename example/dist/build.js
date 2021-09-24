@@ -2576,7 +2576,7 @@ var styles = {
 
 var prizes = ['妙軒','自助餐','東大茶飲','巨森','7-11',
 '東品珍','巴布阿甘','東大膳食部','厚道',
-'吉豐快炒','我家的店','四海遊龍','書香亭'
+'吉豐快炒','我家的店','四海遊龍','書香亭','再抽一次'
 ]	
 //數量
 
@@ -2634,7 +2634,7 @@ var Demo = function (_React$Component) {
       return _react2.default.createElement(
         'div',
         { style: styles.container },
-        _react2.default.createElement(
+        /*_react2.default.createElement(
           'section',
           null,
           _react2.default.createElement(
@@ -2643,8 +2643,46 @@ var Demo = function (_React$Component) {
             '抽學餐'
           ),
           _react2.default.createElement(_src2.default, options)
+        ),*/
+		_react2.default.createElement(
+          'section',
+          null,
+          _react2.default.createElement(
+            'h2',
+            null,
+            '抽學餐'
+          ),
+          _react2.default.createElement(_src2.default, _extends({}, options, { width: 500, height: 500 }))
         ),
-	
+        /*_react2.default.createElement(
+          'section',
+          null,
+          _react2.default.createElement(
+            'h2',
+            null,
+            'custom start action'
+          ),
+          _react2.default.createElement(_src2.default, _extends({}, options, {
+            hiddenButton: true,
+            getTurntable: function getTurntable(turntable) {
+              return _this2.turntable = turntable;
+            }
+          })),
+          _react2.default.createElement(
+            'button',
+            { onClick: function onClick() {
+                return _this2.turntable.start();
+              } },
+            'start'
+          ),
+          _react2.default.createElement(
+            'button',
+            { onClick: function onClick() {
+                return _this2.turntable.stop();
+              } },
+            'stop'
+          )
+        )*/
       );
     }
   }]);
