@@ -2580,7 +2580,7 @@ var prizes = ['妙軒','自助餐','東大茶飲','巨森','7-11',
 ]	
 //數量
 
-
+//字大小
 var options = {
   prizes: prizes,
   width: 500,
@@ -2589,7 +2589,7 @@ var options = {
   secondaryColor: '#C8C8A9',
   fontStyle: {
     color: '#fff',
-    size: '14px',
+    size: '10px',
     fontVertical: false,
     fontWeight: 'bold',
     fontFamily: 'Microsoft YaHei'
