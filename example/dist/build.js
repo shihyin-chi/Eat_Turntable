@@ -2589,7 +2589,7 @@ var options = {
   secondaryColor: '#C8C8A9',
   fontStyle: {
     color: '#fff',
-    size: '11px',
+    size: '13px',
     fontVertical: false,
     fontWeight: 'bold',
     fontFamily: 'Microsoft YaHei'
@@ -2650,9 +2650,9 @@ var Demo = function (_React$Component) {
           _react2.default.createElement(
             'h3',
             null,
-            '抽學餐'
+            ''
           ),
-          _react2.default.createElement(_src2.default, _extends({}, options, { width: 350, height: 350 }))
+          _react2.default.createElement(_src2.default, _extends({}, options, { width: 400, height: 400 }))
         ),
         /*_react2.default.createElement(
           'section',
