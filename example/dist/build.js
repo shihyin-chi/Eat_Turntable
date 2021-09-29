@@ -2597,7 +2597,7 @@ var options = {
   },
   speed: 1000,
   duration: 6000,
-  clickText: 'Start',
+  clickText: '抽',
   onStart: function onStart() {
     console.log('start...');
     return true;
