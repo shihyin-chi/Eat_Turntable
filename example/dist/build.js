@@ -2567,7 +2567,7 @@ function _inherits(subClass, superClass) { if (typeof superClass !== "function" 
 
 var styles = {
   container: {
-    padding: 1 //邊界
+    padding:1 //邊界
 	
   }
 };
