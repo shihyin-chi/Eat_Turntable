@@ -1,5 +1,5 @@
 幫學生會建置<strong>學餐抽籤轉盤</strong>：
-https://smalllidinosaur.github.io/eat/
+https://smalllidinosaur.github.io/Eat_Turntable/
 
 ![imgur](https://i.imgur.com/Be6syqZ.jpeg "示範")
 
