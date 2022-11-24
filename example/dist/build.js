@@ -2453,8 +2453,8 @@ ReactTurntable.defaultProps = {
   duration: 5000, //旋转时间
   prizes: [],
   clickText: 'Click',
-  primaryColor: '#83AF9B',
-  secondaryColor: '#C8C8A9',
+  primaryColor: '#013386',
+  secondaryColor: '#5394ff',
   fontStyle: {
     color: '#fff',
     size: '14px',
@@ -2575,9 +2575,9 @@ var styles = {
   return '' + prize + (i + 1);
 });//數量	*/
 
-var prizes = ['妙軒','自助餐','東大茶飲','巨森','7-11',
-'鼎泰珍','巴布阿甘','膳物部','厚道','炒鬧食堂','再抽一次',
-'吉豐快炒','我家的店','四海遊龍','書香亭','天使麻辣'
+var prizes = ['妙軒','ALOHA POKE','東大茶飲','巨森','7-11',
+'鼎泰珍','巴布阿甘','膳物部','厚道','炒鬧食堂','今品餐飲食堂',
+'酸甜滋味蔬果鋪','我家的店','四海遊龍','書香亭','天使麻辣','南島咖啡部落'
 ]	
 //數量
 
@@ -2597,7 +2597,7 @@ var options = {
   },
   speed: 1000,
   duration: 6000,
-  clickText: '抽',
+  clickText: '吃',
   onStart: function onStart() {
     console.log('start...');
     return true;
