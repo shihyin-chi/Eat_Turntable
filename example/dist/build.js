@@ -2590,7 +2590,7 @@ var options = {
   secondaryColor: '#C8C8A9',
   fontStyle: {
     color: '#fff',
-    size: '13px',
+    size: '10px',
     fontVertical: false,
     fontWeight: 'bold',
     fontFamily: 'Microsoft YaHei'
