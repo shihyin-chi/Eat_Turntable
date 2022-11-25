@@ -2453,8 +2453,8 @@ ReactTurntable.defaultProps = {
   duration: 5000, //旋转时间
   prizes: [],
   clickText: 'Click',
-  primaryColor: '#013386',
-  secondaryColor: '#5394ff',
+  primaryColor: '#5c1dbc',
+  secondaryColor: '#7769f7',
   fontStyle: {
     color: '#fff',
     size: '14px',
