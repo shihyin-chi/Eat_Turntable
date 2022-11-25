@@ -2586,8 +2586,8 @@ var options = {
   prizes: prizes,
   width: 500,
   height: 500,
-  primaryColor: '#83AF9B',
-  secondaryColor: '#C8C8A9',
+  primaryColor: '#3e1379',
+  secondaryColor: '#7769f7',
   fontStyle: {
     color: '#fff',
     size: '10px',
